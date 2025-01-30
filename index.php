@@ -1,6 +1,7 @@
 <?php
 // Exemple de code PHP vulnérable
 // Connexion à la base de données sans gestion d'exception
+
 $host = 'localhost';
 $dbname = 'testdb';
 $username = 'root';
